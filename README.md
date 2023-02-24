@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/killercoder"><img src="https://api.daily.dev/devcards/92e90f029597432cbbf0f01fdf524c65.png?r=qfk" width="400" alt="Nuno Garcia's Dev Card"/></a>
